@@ -1,0 +1,20 @@
+header {
+  height: 10px;
+}
+main {
+  height: 70px;
+  border-width: 2em;
+  border-style: dotted;
+  border-color: aquamarine;
+}
+footer {
+  height: 20px;n
+  border-color: bnrown;
+  border-radius: n
+}
+nav li {
+    display: inline-block;
+    padding: 2em 3em 1em 0;
+
+}
+nav {n

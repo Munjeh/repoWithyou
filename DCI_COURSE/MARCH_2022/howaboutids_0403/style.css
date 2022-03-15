@@ -1,0 +1,22 @@
+body {
+  color: blue;
+}
+#id {
+  border: solid 5px rebeccapurple;
+  padding-left: 20px;
+  padding-left: 10px;
+  font-size: 70px;
+  font-family: 'Lucida Sans', 'Sans Regular', sans-serif;
+  font-weight: 200px;
+  background-color: beige;
+  text-align: center;
+}
+.t {
+  background-color: rgb(155, 126, 126);
+  font-size: large;
+  font-weight: 300;
+  font-family: 'Franklin Gothic Medium';
+}
+.d {
+  background-color: aquamarine;
+}
