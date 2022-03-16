@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Georgia, 'Times New Roman', Times;
+  background-color: aquamarine;
+}
+.log {
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+}
+.log img {
+  width: 30px;
+  height: 30px;
+}
+.column_1.row {
+  width: 80px;
+}
+.column_1 {
+  float: left;
+  width: 80%;
+}
+.row::after {
+  width: inherit;
+  content: '';
+  display: inline-block;
+}
+
+footer {
+  border: 2px double red;
+  padding: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+h4 {
+  text-align: center;
+}
